@@ -1,9 +1,11 @@
 <h1 align="center">
-    Hello there! <img height="35px" width="35px" src="./images/welcome.gif"/> 
+    Hello There! <img height="35px" width="35px" src="./images/welcome.gif"/> 
 <h1>
 
 <h2 align="center">
-My Name is Christian Flores, a Full Stack Developer currently traveling the U.S. with my Wife and 1 year old son, I am a former U.S. Air Force Veteran and IT Support Specialist for the United States District Courts.
+I'm Christian Flores, a Full Stack Developer currently exploring the United States with my wife and our 1 year old son. I have had the honor of serving in the U.S. Air Force for 6 years, and I've also worked as an IT Support Specialist for the United States District Courts. 
+----------------------------------------------------
+Being a developer is not just rewarding in terms of creating innovative solutions, but it's also amazing how our code can impact the world, one line at a time.
 </h2>
 
 <h3 align="center">
