@@ -3,8 +3,9 @@
 <h1>
 
 <h2 align="center">
-I'm Christian Flores, a Full Stack Developer currently working as an IT Technician II for the United States Court of Appeals of the Eleventh Circuit in Atlanta, GA. I have had the honor of serving in the U.S. Air Force for 6 years, and I've also worked as an IT Support Specialist for the United States District Courts in Tampa, FL for 3 years. 
-Being a developer is not just rewarding in terms of creating innovative solutions, but it's also amazing how our code can impact the world, one line at a time.
+Greetings! I'm Christian Flores, a seasoned Full Stack Developer currently working as an IT Technician II at the United States Court of Appeals for the Eleventh Circuit in Atlanta, GA. With a commendable tenure of 6 years in the U.S. Air Force and 3 years as an IT Support Specialist for the United States District Courts in Tampa, FL, I bring a wealth of experience to the table.
+
+I'm deeply passionate about the transformative power of code. It's inspiring to witness how our creations, one line at a time, can shape and enhance the world around us. I thrive on the challenges of crafting innovative solutions and am committed to pushing the boundaries of what's possible in the realm of technology. Let's connect and embark on this exciting journey together!
 </h2>
 
 <h3 align="center">
